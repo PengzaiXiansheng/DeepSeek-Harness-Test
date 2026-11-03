@@ -12,3 +12,5 @@ its own Session and branch, and delivers a pull request.
 
 - Work arrives through the agent account's GitHub notifications.
 - Proposals stay in observe mode until the operator widens the rules.
+
+Hello from superagent
